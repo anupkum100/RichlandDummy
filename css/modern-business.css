@@ -1,0 +1,89 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+body {
+  /* background: linear-gradient(-90deg, salmon, teal, salmon); */
+  background: #efefef;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card.h-100,
+.card-img-top {
+  box-shadow: 0 0 20px;
+}
+
+.card-body {
+  background: linear-gradient(-90deg, salmon, teal, salmon);
+}
+
+.card {
+  border: none;
+}
+
+.card-header {
+  background: #000;
+  color: #fff;
+}
+
+.card-footer {
+  text-align: center;
+  background: linear-gradient(-90deg, salmon, teal, salmon);
+}
+
+.card-footer .btn {
+  width: 100%;
+}
+
+.card-title a {
+  color: #fff;
+}
+
+.navbar {
+  background: linear-gradient(-90deg, salmon, teal, salmon);
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #fff !important;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  color: black !important;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.breadcrumb {
+  background: lightblue;
+}
+
+.card-text:last-child{
+  color: oldlace;
+}
+
+a,.text-muted{
+  color: #fff !important;
+}
